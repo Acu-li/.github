@@ -1,8 +1,9 @@
 ![download.png](https://raw.githubusercontent.com/Fischherboot/Aculi/main/watermark-no-bg.png)
 
-This is the "organization" for uploading all my ``useable`` github project!
-fell free to fork and create whatever you want with them :)
+This is the "organization" for uploading all my ``usable`` GitHub projects!
 
-Now fellas, thanks for visiting
+Feel free to fork and create whatever you want with them. :)
 
-### Have fun
+Now folks, thanks for visiting.
+
+Have fun
