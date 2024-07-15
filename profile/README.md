@@ -4,6 +4,4 @@
 
 ### Feel free to fork and create whatever you want with them. :)
 
-### Now folks, thanks for visiting.
-
-### Have fun
+### Now folks, thanks for visiting. Have fun!
